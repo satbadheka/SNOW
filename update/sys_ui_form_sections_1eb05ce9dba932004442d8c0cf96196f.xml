@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="1eb05ce9dba932004442d8c0cf96196f" sys_domain="global" table="x_18132_cake_shop_order" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>satya.badheka</sys_created_by>
+            <sys_created_on>2017-03-16 12:40:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d6b05ce9dba932004442d8c0cf961972</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_18132_cake_shop_order" name="x_18132_cake_shop_order" sys_domain="global" view="Default view">1eb05ce9dba932004442d8c0cf96196f</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_18132_cake_shop_order" sys_domain="global" view="Default view">9f0e13cbdbd532004442d8c0cf9619d4</sys_ui_section>
+            <sys_updated_by>satya.badheka</sys_updated_by>
+            <sys_updated_on>2017-03-16 12:40:50</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>satya.badheka</sys_created_by>
+            <sys_created_on>2017-03-16 12:40:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d2b05ce9dba932004442d8c0cf961973</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_18132_cake_shop_order" name="x_18132_cake_shop_order" sys_domain="global" view="Default view">1eb05ce9dba932004442d8c0cf96196f</sys_ui_form>
+            <sys_ui_section caption="Order Details" display_value="Order Details" name="x_18132_cake_shop_order" sys_domain="global" view="Default view">16b05ce9dba932004442d8c0cf96196e</sys_ui_section>
+            <sys_updated_by>satya.badheka</sys_updated_by>
+            <sys_updated_on>2017-03-16 12:40:50</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>satya.badheka</sys_created_by>
+            <sys_created_on>2017-03-16 12:40:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>deb05ce9dba932004442d8c0cf961976</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_18132_cake_shop_order" name="x_18132_cake_shop_order" sys_domain="global" view="Default view">1eb05ce9dba932004442d8c0cf96196f</sys_ui_form>
+            <sys_ui_section caption="Order Instructions" display_value="Order Instructions" name="x_18132_cake_shop_order" sys_domain="global" view="Default view">52b05ce9dba932004442d8c0cf96196f</sys_ui_section>
+            <sys_updated_by>satya.badheka</sys_updated_by>
+            <sys_updated_on>2017-03-16 12:40:50</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_18132_cake_shop_order</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>satya.badheka</sys_created_by>
+            <sys_created_on>2017-03-16 12:40:50</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1eb05ce9dba932004442d8c0cf96196f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_18132_cake_shop_order</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Cake Shop" source="x_18132_cake_shop">9f381b07db9532004442d8c0cf961982</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Cake Shop">9f381b07db9532004442d8c0cf961982</sys_scope>
+            <sys_update_name>sys_ui_form_sections_1eb05ce9dba932004442d8c0cf96196f</sys_update_name>
+            <sys_updated_by>satya.badheka</sys_updated_by>
+            <sys_updated_on>2017-03-16 12:40:50</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

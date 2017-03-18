@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_user" label="Member" max_length="40" name="x_18132_cake_shop_member" type="collection"/>
+</database>

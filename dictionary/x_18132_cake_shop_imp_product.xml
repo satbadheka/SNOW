@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="Imp Product" max_length="40" name="x_18132_cake_shop_imp_product" type="collection">
+        <element attributes="import_attribute_name=In Stock,edge_encryption_enabled=true" label="In Stock" max_length="40" name="u_in_stock" type="string"/>
+        <element attributes="import_attribute_name=Item Name,edge_encryption_enabled=true" label="Item Name" max_length="40" name="u_item_name" type="string"/>
+        <element attributes="import_attribute_name=Ordered in,edge_encryption_enabled=true" label="Ordered in" max_length="40" name="u_ordered_in" type="string"/>
+        <element attributes="import_attribute_name=Price" label="Price" max_length="40" name="u_price" type="integer"/>
+        <element attributes="import_attribute_name=Sub Type,edge_encryption_enabled=true" label="Sub Type" max_length="40" name="u_sub_type" type="string"/>
+        <element attributes="import_attribute_name=Type,edge_encryption_enabled=true" label="Type" max_length="40" name="u_type" type="string"/>
+        <element attributes="import_attribute_name=Unit" label="Unit" max_length="40" name="u_unit" type="integer"/>
+    </element>
+</database>

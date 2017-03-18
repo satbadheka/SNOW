@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="price" label="Price" language="en" table="x_18132_cake_shop_product">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>price</element>
+            <help/>
+            <hint/>
+            <label>Price</label>
+            <language>en</language>
+            <name>x_18132_cake_shop_product</name>
+            <plural>Prices</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>satya.badheka</sys_created_by>
+            <sys_created_on>2017-03-15 09:16:10</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>62481a05db2132004442d8c0cf9619c5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Price</sys_name>
+            <sys_package display_value="Cake Shop" source="x_18132_cake_shop">9f381b07db9532004442d8c0cf961982</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Cake Shop">9f381b07db9532004442d8c0cf961982</sys_scope>
+            <sys_update_name>sys_documentation_x_18132_cake_shop_product_price_en</sys_update_name>
+            <sys_updated_by>satya.badheka</sys_updated_by>
+            <sys_updated_on>2017-03-15 09:16:10</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

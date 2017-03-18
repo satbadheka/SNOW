@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="name" table="x_18132_cake_shop_product" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>savoury</dependent_value>
+            <element>name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Puff</label>
+            <language>en</language>
+            <name>x_18132_cake_shop_product</name>
+            <sequence>100</sequence>
+            <sys_created_by>satya.badheka</sys_created_by>
+            <sys_created_on>2017-03-14 09:20:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9b6fc57cdbe532004442d8c0cf9619ef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>satya.badheka</sys_updated_by>
+            <sys_updated_on>2017-03-14 09:20:01</sys_updated_on>
+            <value>puff</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>savoury</dependent_value>
+            <element>name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Bread</label>
+            <language>en</language>
+            <name>x_18132_cake_shop_product</name>
+            <sequence>101</sequence>
+            <sys_created_by>satya.badheka</sys_created_by>
+            <sys_created_on>2017-03-14 09:20:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>769f017cdbe532004442d8c0cf9619e7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>satya.badheka</sys_updated_by>
+            <sys_updated_on>2017-03-14 09:20:34</sys_updated_on>
+            <value>bread</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>savoury</dependent_value>
+            <element>name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Khakhra</label>
+            <language>en</language>
+            <name>x_18132_cake_shop_product</name>
+            <sequence>102</sequence>
+            <sys_created_by>satya.badheka</sys_created_by>
+            <sys_created_on>2017-03-14 09:21:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>adcfc57cdbe532004442d8c0cf96199a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>satya.badheka</sys_updated_by>
+            <sys_updated_on>2017-03-14 09:21:12</sys_updated_on>
+            <value>khakhra</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>sweet</dependent_value>
+            <element>name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cake</label>
+            <language>en</language>
+            <name>x_18132_cake_shop_product</name>
+            <sequence>103</sequence>
+            <sys_created_by>satya.badheka</sys_created_by>
+            <sys_created_on>2017-03-14 09:25:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>eeb0d97cdbe532004442d8c0cf961986</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>satya.badheka</sys_updated_by>
+            <sys_updated_on>2017-03-14 09:25:42</sys_updated_on>
+            <value>cake</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>sweet</dependent_value>
+            <element>name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cookie</label>
+            <language>en</language>
+            <name>x_18132_cake_shop_product</name>
+            <sequence>104</sequence>
+            <sys_created_by>satya.badheka</sys_created_by>
+            <sys_created_on>2017-03-14 09:26:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ad01d17cdbe532004442d8c0cf9619da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>satya.badheka</sys_updated_by>
+            <sys_updated_on>2017-03-14 09:26:47</sys_updated_on>
+            <value>cookie</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>sweet</dependent_value>
+            <element>name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pastry</label>
+            <language>en</language>
+            <name>x_18132_cake_shop_product</name>
+            <sequence>105</sequence>
+            <sys_created_by>satya.badheka</sys_created_by>
+            <sys_created_on>2017-03-14 09:26:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bae0d57cdbe532004442d8c0cf961924</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>satya.badheka</sys_updated_by>
+            <sys_updated_on>2017-03-14 09:27:26</sys_updated_on>
+            <value>pastry</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>sweet</dependent_value>
+            <element>name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Doughnut</label>
+            <language>en</language>
+            <name>x_18132_cake_shop_product</name>
+            <sequence>106</sequence>
+            <sys_created_by>satya.badheka</sys_created_by>
+            <sys_created_on>2017-03-14 09:28:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3b5115bcdbe532004442d8c0cf961932</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>satya.badheka</sys_updated_by>
+            <sys_updated_on>2017-03-14 09:28:19</sys_updated_on>
+            <value>doughnut</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <name>x_18132_cake_shop_product</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>satya.badheka</sys_created_by>
+            <sys_created_on>2017-03-14 09:20:01</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>059fc57cdbe532004442d8c0cf9619b6</sys_id>
+            <sys_mod_count>8</sys_mod_count>
+            <sys_name>name</sys_name>
+            <sys_package display_value="Cake Shop" source="x_18132_cake_shop">9f381b07db9532004442d8c0cf961982</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Cake Shop">9f381b07db9532004442d8c0cf961982</sys_scope>
+            <sys_update_name>sys_choice_x_18132_cake_shop_product_name</sys_update_name>
+            <sys_updated_by>satya.badheka</sys_updated_by>
+            <sys_updated_on>2017-03-14 09:28:19</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

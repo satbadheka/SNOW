@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Member Address" max_length="40" name="x_18132_cake_shop_member_address" type="collection">
+        <element label="Address Line 1" mandatory="true" max_length="100" name="address_1" type="string"/>
+        <element label="Address Line 2" max_length="100" name="address_2" type="string"/>
+        <element label="City" mandatory="true" max_length="100" name="city" type="string"/>
+        <element label="Country" mandatory="true" max_length="100" name="country" type="string"/>
+        <element label="Member" mandatory="true" max_length="32" name="member" reference="x_18132_cake_shop_member" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference"/>
+        <element display="true" label="Name" mandatory="true" max_length="50" name="name" type="string"/>
+        <element label="State" mandatory="true" max_length="100" name="state" type="string"/>
+        <element choice="3" label="Type" mandatory="true" max_length="40" name="type" type="choice">
+            <choice>
+                <element label="Home" sequence="100" value="home"/>
+                <element label="Billing" sequence="101" value="billing"/>
+                <element label="Delivery" sequence="102" value="delivery"/>
+            </choice>
+        </element>
+        <element label="Zip Code" mandatory="true" max_length="10" name="zip_code" type="string"/>
+        <index name="index">
+            <element name="member"/>
+        </index>
+    </element>
+</database>

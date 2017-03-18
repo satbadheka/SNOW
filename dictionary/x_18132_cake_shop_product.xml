@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Product" max_length="40" name="x_18132_cake_shop_product" type="collection">
+        <element label="In Stock" max_length="40" name="in_stock" type="boolean"/>
+        <element display="true" label="Item Name" mandatory="true" max_length="200" name="item_name" type="string"/>
+        <element choice="1" dependent="type" dependent_on_field="type" label="Sub Type" mandatory="true" max_length="40" name="name" type="choice" use_dependent_field="true">
+            <choice>
+                <element dependent_value="savoury" label="Puff" sequence="100" value="puff"/>
+                <element dependent_value="savoury" label="Bread" sequence="101" value="bread"/>
+                <element dependent_value="savoury" label="Khakhra" sequence="102" value="khakhra"/>
+                <element dependent_value="sweet" label="Cake" sequence="103" value="cake"/>
+                <element dependent_value="sweet" label="Cookie" sequence="104" value="cookie"/>
+                <element dependent_value="sweet" label="Pastry" sequence="105" value="pastry"/>
+                <element dependent_value="sweet" label="Doughnut" sequence="106" value="doughnut"/>
+            </choice>
+        </element>
+        <element choice="1" label="Ordered in" mandatory="true" max_length="40" name="ordered_in" type="choice">
+            <choice>
+                <element label="Weight" sequence="100" value="weight"/>
+                <element label="Number" sequence="101" value="number"/>
+            </choice>
+        </element>
+        <element label="Price" mandatory="true" max_length="20" name="price" type="currency"/>
+        <element choice="1" label="Type" mandatory="true" max_length="40" name="type" type="choice">
+            <choice>
+                <element label="Sweet" sequence="100" value="sweet"/>
+                <element label="Savoury" sequence="101" value="savoury"/>
+            </choice>
+        </element>
+        <element label="Unit" mandatory="true" max_length="10" name="unit" type="string"/>
+        <index name="index">
+            <element name="item_name"/>
+        </index>
+    </element>
+</database>
